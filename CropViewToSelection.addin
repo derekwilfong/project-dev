@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>CropViewToSelection</Name>
+    <Assembly>.\dpStuff\CropViewToSelection\CropViewToSelection.dll</Assembly>
+    <AddInId>ed112fb7-0ad1-48db-9d35-150080e5e692</AddInId>
+    <FullClassName>CropViewToSelection.Application</FullClassName>
+    <VendorId>DPST</VendorId>
+    <VendorDescription>Dima Chiriacov | dp Stuff, http://dp-stuff.org</VendorDescription>
+  </AddIn>  
+</RevitAddIns>
