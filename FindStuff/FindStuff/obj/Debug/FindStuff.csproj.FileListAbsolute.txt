@@ -1,0 +1,5 @@
+c:\users\derekw\documents\visual studio 2015\Projects\FindStuff\FindStuff\bin\Debug\FindStuff.dll
+c:\users\derekw\documents\visual studio 2015\Projects\FindStuff\FindStuff\bin\Debug\FindStuff.pdb
+c:\users\derekw\documents\visual studio 2015\Projects\FindStuff\FindStuff\obj\Debug\FindStuff.csprojResolveAssemblyReference.cache
+c:\users\derekw\documents\visual studio 2015\Projects\FindStuff\FindStuff\obj\Debug\FindStuff.dll
+c:\users\derekw\documents\visual studio 2015\Projects\FindStuff\FindStuff\obj\Debug\FindStuff.pdb
