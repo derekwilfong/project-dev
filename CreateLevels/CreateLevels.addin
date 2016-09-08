@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>C:\Users\derekw\Documents\Visual Studio 2015\Projects\CreateLevels\CreateLevels\bin\Debug\CreateLevels.dll</Assembly>
+                <AddInId>f7e41951-29ef-4b91-846e-a08f570756f8</AddInId>
+                <FullClassName>CreateLevels.CmdCreateNewLevel</FullClassName>
+                <Text>Levels</Text> 
+                <VendorId>DJW</VendorId>
+                <VendorDescription>DerekJWilfong</VendorDescription> 
+        </AddIn>
+</RevitAddIns>
