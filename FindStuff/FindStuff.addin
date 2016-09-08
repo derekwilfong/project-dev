@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>C:\Users\derekw\Documents\Visual Studio 2015\Projects\FindStuff\FindStuff\bin\Debug\\FindStuff.dll</Assembly>
+                <AddInId>4ee2ba74-fbd8-4ad4-b504-be8a1f3231ef</AddInId>
+                <FullClassName>FindStuff.CmdReportItem</FullClassName>
+                <Text>Find Stuff</Text> 
+                <VendorId>DJW</VendorId>
+                <VendorDescription>DerekJWilfong</VendorDescription> 
+        </AddIn>
+</RevitAddIns>
